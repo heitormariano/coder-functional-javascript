@@ -1,4 +1,4 @@
-// challenge
+// challenge (my solution)
 
 function myRange(...nums) {
   let arrLength = nums.length;
